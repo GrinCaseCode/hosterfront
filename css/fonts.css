@@ -1,45 +1,45 @@
 @font-face {
-font-family: 'Avenir Next Cyr Medium';
-src: url('../fonts/AvenirNextCyr-Medium.eot');
-src: url('../fonts/AvenirNextCyr-Medium.eot?#iefix') format('embedded-opentype'),
-url('../fonts/AvenirNextCyr-Medium.woff') format('woff'),
-url('../fonts/AvenirNextCyr-Medium.ttf') format('truetype');
+font-family: 'Montserrat Regular';
+src: url('../fonts/Montserrat-Regular.eot');
+src: url('../fonts/Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+url('../fonts/Montserrat-Regular.woff') format('woff'),
+url('../fonts/Montserrat-Regular.ttf') format('truetype');
 font-weight: normal;
 font-style: normal;
 }
 @font-face {
-font-family: 'Avenir Next Cyr Bold';
-src: url('../fonts/AvenirNextCyr-Bold.eot');
-src: url('../fonts/AvenirNextCyr-Bold.eot?#iefix') format('embedded-opentype'),
-url('../fonts/AvenirNextCyr-Bold.woff') format('woff'),
-url('../fonts/AvenirNextCyr-Bold.ttf') format('truetype');
+font-family: 'Montserrat Medium';
+src: url('../fonts/Montserrat-Medium.eot');
+src: url('../fonts/Montserrat-Medium.eot?#iefix') format('embedded-opentype'),
+url('../fonts/Montserrat-Medium.woff') format('woff'),
+url('../fonts/Montserrat-Medium.ttf') format('truetype');
 font-weight: normal;
 font-style: normal;
 }
 @font-face {
-font-family: 'Avenir Next Cyr Regular';
-src: url('../fonts/AvenirNextCyr-Regular.eot');
-src: url('../fonts/AvenirNextCyr-Regular.eot?#iefix') format('embedded-opentype'),
-url('../fonts/AvenirNextCyr-Regular.woff') format('woff'),
-url('../fonts/AvenirNextCyr-Regular.ttf') format('truetype');
+font-family: 'Montserrat Semibold';
+src: url('../fonts/Montserrat-SemiBold.eot');
+src: url('../fonts/Montserrat-SemiBold.eot?#iefix') format('embedded-opentype'),
+url('../fonts/Montserrat-SemiBold.woff') format('woff'),
+url('../fonts/Montserrat-SemiBold.ttf') format('truetype');
 font-weight: normal;
 font-style: normal;
 }
 @font-face {
-font-family: 'Avenir Next Cyr Light';
-src: url('../fonts/AvenirNextCyr-Light.eot');
-src: url('../fonts/AvenirNextCyr-Light.eot?#iefix') format('embedded-opentype'),
-url('../fonts/AvenirNextCyr-Light.woff') format('woff'),
-url('../fonts/AvenirNextCyr-Light.ttf') format('truetype');
+font-family: 'Montserrat Bold';
+src: url('../fonts/Montserrat-ExtraBold.eot');
+src: url('../fonts/Montserrat-ExtraBold.eot?#iefix') format('embedded-opentype'),
+url('../fonts/Montserrat-ExtraBold.woff') format('woff'),
+url('../fonts/Montserrat-ExtraBold.ttf') format('truetype');
 font-weight: normal;
 font-style: normal;
 }
 @font-face {
-font-family: 'Avenir Next Cyr Demi';
-src: url('../fonts/AvenirNextCyr-Demi.eot');
-src: url('../fonts/AvenirNextCyr-Demi.eot?#iefix') format('embedded-opentype'),
-url('../fonts/AvenirNextCyr-Demi.woff') format('woff'),
-url('../fonts/AvenirNextCyr-Demi.ttf') format('truetype');
+font-family: 'Montserrat Black';
+src: url('../fonts/Montserrat-Black.eot');
+src: url('../fonts/Montserrat-Black.eot?#iefix') format('embedded-opentype'),
+url('../fonts/Montserrat-Black.woff') format('woff'),
+url('../fonts/Montserrat-Black.ttf') format('truetype');
 font-weight: normal;
 font-style: normal;
 }
