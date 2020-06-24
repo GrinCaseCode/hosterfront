@@ -186,6 +186,7 @@
     }
     .bottom-prices__price {
     font-size: 16px;
+    white-space: nowrap;
 }
 .bottom-prices__name {
 	font-size: 14px;
@@ -225,6 +226,9 @@
 }
 .item-why {
 	min-height: auto;
+}
+.section-prices .table-wrap {
+    margin-right: -15px;
 }
 }
 
@@ -323,6 +327,15 @@
 .item-include__name {
 	font-size: 18px;
 	padding-bottom: 10px;
+}
+.bottom-prices__line {
+    display: block;
+}
+.bottom-prices__name {
+    max-width: 100%;
+}
+.bottom-prices__price {
+    padding-top: 10px;
 }
 }
 
